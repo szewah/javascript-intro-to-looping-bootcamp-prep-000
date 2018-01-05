@@ -17,5 +17,5 @@ function forLoop(array) {
  }
  
  function doWhileLoop(array) {
-   
+   funct
  }
