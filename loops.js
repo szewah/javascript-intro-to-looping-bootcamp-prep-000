@@ -22,4 +22,7 @@ function forLoop(array) {
    }
  }
  
- 
+ do {
+   return array
+ } while 
+ }
