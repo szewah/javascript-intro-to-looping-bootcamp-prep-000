@@ -24,5 +24,5 @@ function forLoop(array) {
  
  do {
    return array
- } while 
+ } while (array.length > 0 && maybeTrue())
  }
