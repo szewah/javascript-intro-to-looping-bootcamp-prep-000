@@ -22,10 +22,10 @@ function doWhileLoop(array) {
   }
 }
  
-do {
-  array.pop()
-} while (array.length > -1 && maybeTrue())
-  return array
-}
+// do {
+//   array.pop()
+// } while (array.length > -1 && maybeTrue())
+//   return array
+// }
 
 
